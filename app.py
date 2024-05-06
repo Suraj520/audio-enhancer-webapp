@@ -24,8 +24,8 @@ def enhance_audio(input_audio):
 
 # Streamlit app
 def main():
-    st.title("Resemble Enhance Audio App")
-    st.markdown("This app enhances audio using Resemble Enhance.")
+    st.title("Audio Enhancer")
+    st.markdown("Developed by Suraj")
 
     # File uploader for input audio
     st.markdown("### Upload Audio File")
